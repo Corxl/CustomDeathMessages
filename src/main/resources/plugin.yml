@@ -1,0 +1,5 @@
+name: CustomDeathMessages
+version: '${project.version}'
+main: me.corxl.customdeathmessages.CustomDeathMessages
+api-version: 1.15
+authors: [ Corxl ]
